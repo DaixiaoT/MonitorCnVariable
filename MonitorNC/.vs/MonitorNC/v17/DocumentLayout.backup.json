@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\opctool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\opctool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|c:\\users\\daixiaotao\\desktop\\siemens\\monitorcnvariable\\monitorcnvariable\\monitornc\\monitornc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01D8CDE-81F3-4243-9DE9-A7729F95E61F}|MonitorNC\\MonitorNC.csproj|solutionrelative:monitornc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +50,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "MonitorNC\\UserControl1.Designer.cs",
+              "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl1.Designer.cs",
+              "RelativeToolTip": "MonitorNC\\UserControl1.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAawFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:54:28.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OpcTool.cs",
+              "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\OpcTool.cs",
+              "RelativeDocumentMoniker": "MonitorNC\\OpcTool.cs",
+              "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\OpcTool.cs*",
+              "RelativeToolTip": "MonitorNC\\OpcTool.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:06:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl1.cs",
+              "RelativeDocumentMoniker": "MonitorNC\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl1.cs",
+              "RelativeToolTip": "MonitorNC\\UserControl1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:51:42.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl1.cs",
+              "RelativeDocumentMoniker": "MonitorNC\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MonitorNC\\UserControl1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:51:28.496Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\Form1.cs",
               "RelativeDocumentMoniker": "MonitorNC\\Form1.cs",
               "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "MonitorNC\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T06:16:08.075Z",
+              "WhenOpened": "2024-09-02T06:38:39.618Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\Form1.cs",
+              "RelativeDocumentMoniker": "MonitorNC\\Form1.cs",
+              "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\Form1.cs",
+              "RelativeToolTip": "MonitorNC\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:27:23.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\Program.cs",
+              "RelativeDocumentMoniker": "MonitorNC\\Program.cs",
+              "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\Program.cs",
+              "RelativeToolTip": "MonitorNC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:40:17.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControl2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl2.cs",
+              "RelativeDocumentMoniker": "MonitorNC\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MonitorNC\\UserControl2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:50:06.872Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControl2.cs",
+              "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl2.cs",
+              "RelativeDocumentMoniker": "MonitorNC\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\UserControl2.cs",
+              "RelativeToolTip": "MonitorNC\\UserControl2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:04:35.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MonitorNC\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Daixiaotao\\Desktop\\Siemens\\MonitorCnVariable\\MonitorCnVariable\\MonitorNC\\MonitorNC\\Form1.Designer.cs",
+              "RelativeToolTip": "MonitorNC\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:54:06.02Z",
+              "EditorCaption": ""
             }
           ]
         }
